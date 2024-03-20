@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SberPracticeApp/static/css/main.2c9751a5.css",
+    "main.js": "/SberPracticeApp/static/js/main.11a225ef.js",
+    "index.html": "/SberPracticeApp/index.html",
+    "main.2c9751a5.css.map": "/SberPracticeApp/static/css/main.2c9751a5.css.map",
+    "main.11a225ef.js.map": "/SberPracticeApp/static/js/main.11a225ef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c9751a5.css",
+    "static/js/main.11a225ef.js"
+  ]
+}
